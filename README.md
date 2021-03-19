@@ -1,4 +1,4 @@
-# Aplica-o-em-Python
+# Aplicao-em-Python
 Proposta:
 O desafio era criar um site de música em python utilizando o framework django, criando um CRUD e utilizando o admin do django para controlar as informações do sqlite. O CRUD deveria enviar informações como: nome da música, nome do artista, data da inscrição, para o sqlite.
 
